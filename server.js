@@ -22,7 +22,7 @@ app.get('/',async(req,res)=>{
     let data = response.data 
     let req_data = []
     data.result.games.forEach((match)=>{
-        if(match.tournament.sport_category_id==2)
+        if(match.tournament.sport_category_id==2 || match.tournament.sport_category_id == 1)
         {
             req_data.push({
                 id:match.id,
