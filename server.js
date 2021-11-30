@@ -153,6 +153,6 @@ app.post('/get_data',async (req,res)=>{
 
 
 
-app.listen(3500,()=>{
+app.listen(process.env.PORT || 3500,()=>{
     console.log('server is up and running!')
 })
