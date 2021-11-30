@@ -1,0 +1,35 @@
+<h3>Team Generation Maintaince</h3>
+
+<h2>Match Id : <%= matchId %></h2>
+<h2>Home Team(team -1) : <%= home_team_name %></h2>
+<h2>Away Team(team -2) : <%= away_team_name %></h2>
+<h2>Series Team : <%= series_name %></h2>
+
+
+<form action="/get_data" method="POST">
+   <div>
+    <label for="matchId">Enter Match Id: </label>
+    <input type="text" name="matchId" required>
+   </div>
+   <div>
+    <label for="seriesName">Enter SeriesName: </label>
+    <input type="text" name="seriesName" required>
+   </div>
+   <div>
+    <label for="seriesCode">Enter SerieCode: </label>
+    <input type="text" name="seriesCode" required>
+   </div>
+   <div>
+    <label for="startNumber">Enter Start Number: </label>
+    <input type="text" name="startNumber" required>
+   </div>
+   <div>
+    <label for="lastNumber">Enter Last Number: </label>
+    <input type="text" name="lastNumber" required>
+   </div>
+   <div>
+    <label for="gender">Enter Gender : </label>
+    <input type="text" placeholder="1-men , 0-women" name="gender" required>
+   </div>
+    <input type="submit" value="Get Data">
+</form>

@@ -1,0 +1,16 @@
+<h1>Starting of the data taking!</h1>
+
+
+
+<% locals.req_data.forEach((match) => { %>
+    <div style="border:1px solid black; width:500px;">
+        <p> series name : <%= match.series_name %></p>
+        <p>Match : <%= match.home_team_name %> VS <%= match.away_team_name %></p>
+        <img src="<%= match.home_team_image%>" style="width: 50px; height:50px;"> <span>VS</span>
+        <img src="<%= match.away_team_image%>" style="width: 50px; height:50px;">
+        <p>
+            <a href="/match/<%= match.id %>?home=<%= match.home_team_name %>&away=<%= match.away_team_name %>&name=<%= match.series_name%>"><button>Get Data</button></a>
+        </p>
+    </div>
+    <br>
+<% }) %>

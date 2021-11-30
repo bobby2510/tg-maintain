@@ -1,0 +1,24 @@
+{
+    "series_name":"Ind Vs NZ",
+    "series_code":"IVN",
+    "number_of_teams":2,
+    "gender":1,
+    "team_list":["IND","NZ"],
+    "teams":[
+        {
+            "team_name":"IND",
+            "players_name":["KL Rahul","Ishant Sharma","Suryakumar Yadav","Jayant Yadav","Virat Kohli","Umesh Yadav","Mohammed Siraj","Ravindra Jadeja","Shreyas Iyer","Ajinkya Rahane","Axar Patel","Ravichandran Ashwin","Wriddhiman Saha","Shubman Gill","Prasidh Krishna","Mayank Agarwal","Cheteshwar Pujara","Srikar Bharat"],
+            "players_credits":[9.5,8.5,8,8,9.5,9,9,9,8.5,9.5,9,8.5,9.5,8.5,9,9,8,8.5],
+            "players_role":[2,4,2,4,2,4,4,3,2,2,3,3,1,2,4,2,2,1],
+            "players_image":[0,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,0],
+            "players_id":[700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717]
+            },
+            {
+            "team_name":"NZ",
+            "players_name":["Kane Williamson","Ross Taylor","Mitchell Santner","Glenn Phillips","Tom Blundell","Tom Latham","Tim Southee","Kyle Jamieson","Neil Wagner","Ajaz Patel","Henry Nicholls","Will Young","Rachin Ravindra","William Somerville","Daryl Mitchell"],
+            "players_credits":[9.5,9.5,9,8.5,8.5,9.5,9,8.5,9,9,9.5,9.5,9,9,8.5],
+            "players_role":[2,2,3,1,1,2,4,4,4,4,2,2,3,4,2],
+            "players_image":[750,751,752,753,754,755,756,757,758,0,760,761,762,0,764],
+            "players_id":[750,751,752,753,754,755,756,757,758,759,760,761,762,763,764]
+            }
+        ]}
