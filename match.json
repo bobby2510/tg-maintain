@@ -1,0 +1,1468 @@
+{
+    "result": {
+        "games": [
+            {
+                "id": 59945,
+                "home_team_code": "UTA",
+                "away_team_code": "BOS",
+                "status": "active",
+                "game_date": "2021-12-04T02:05:00+00:00",
+                "tournament_id": 1939,
+                "home_team_id": 6705,
+                "away_team_id": 6694,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 6694,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/BOD-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 6705,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/6705"
+                },
+                "tournament": {
+                    "id": 1939,
+                    "name": "NBA 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59946,
+                "home_team_code": "GSW",
+                "away_team_code": "PHX",
+                "status": "active",
+                "game_date": "2021-12-04T03:05:00+00:00",
+                "tournament_id": 1939,
+                "home_team_id": 6686,
+                "away_team_id": 6772,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 6772,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/6772"
+                },
+                "home_team": {
+                    "id": 6686,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/6686"
+                },
+                "tournament": {
+                    "id": 1939,
+                    "name": "NBA 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59947,
+                "home_team_code": "LAL",
+                "away_team_code": "LAC",
+                "status": "active",
+                "game_date": "2021-12-04T03:05:00+00:00",
+                "tournament_id": 1939,
+                "home_team_id": 6687,
+                "away_team_id": 6684,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 6684,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/6684"
+                },
+                "home_team": {
+                    "id": 6687,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/6687"
+                },
+                "tournament": {
+                    "id": 1939,
+                    "name": "NBA 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59902,
+                "home_team_code": "BB",
+                "away_team_code": "S24PT",
+                "status": "active",
+                "game_date": "2021-12-04T03:15:00+00:00",
+                "tournament_id": 2045,
+                "home_team_id": 75415,
+                "away_team_id": 75416,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75416,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/south-24.png"
+                },
+                "home_team": {
+                    "id": 75415,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/burdwan.png"
+                },
+                "tournament": {
+                    "id": 2045,
+                    "name": "Bengal T20 Challenge",
+                    "sport_category_id": 2,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59815,
+                "home_team_code": "BAN",
+                "away_team_code": "PAK",
+                "status": "active",
+                "game_date": "2021-12-04T04:00:00+00:00",
+                "tournament_id": 2024,
+                "home_team_id": 74675,
+                "away_team_id": 74959,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 74959,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/PAK-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 74675,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/BAN-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2024,
+                    "name": "Pakistan tour of Bangladesh",
+                    "sport_category_id": 2,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59923,
+                "home_team_code": "HEH-W",
+                "away_team_code": "SHR-W",
+                "status": "active",
+                "game_date": "2021-12-04T04:00:00+00:00",
+                "tournament_id": 2065,
+                "home_team_id": 75403,
+                "away_team_id": 75399,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75399,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/SHR-VB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75403,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/HEH-VB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2065,
+                    "name": "China Women Volleyball",
+                    "sport_category_id": 16,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59908,
+                "home_team_code": "PU",
+                "away_team_code": "KLS",
+                "status": "active",
+                "game_date": "2021-12-04T05:00:00+00:00",
+                "tournament_id": 2062,
+                "home_team_id": 75348,
+                "away_team_id": 75369,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75369,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/KLS-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75348,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/PAU-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2062,
+                    "name": "MCA All Star T10 Bash",
+                    "sport_category_id": 2,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59880,
+                "home_team_code": "YKFM",
+                "away_team_code": "KAW",
+                "status": "active",
+                "game_date": "2021-12-04T05:02:00+00:00",
+                "tournament_id": 1406,
+                "home_team_id": 10675,
+                "away_team_id": 8126,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 8126,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/KAW-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 10675,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/YKFM-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1406,
+                    "name": "Japanese League",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59881,
+                "home_team_code": "GWN",
+                "away_team_code": "INC",
+                "status": "active",
+                "game_date": "2021-12-04T06:02:00+00:00",
+                "tournament_id": 1126,
+                "home_team_id": 73657,
+                "away_team_id": 73633,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73633,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/INC-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73657,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/GWN-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1126,
+                    "name": "Korean League",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59813,
+                "home_team_code": "SF-W",
+                "away_team_code": "BS-W",
+                "status": "active",
+                "game_date": "2021-12-04T06:05:00+00:00",
+                "tournament_id": 2066,
+                "home_team_id": 75394,
+                "away_team_id": 75395,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75395,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DEF-NB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75394,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DEF-NB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2066,
+                    "name": "WNBL 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59910,
+                "home_team_code": "JR",
+                "away_team_code": "MH",
+                "status": "active",
+                "game_date": "2021-12-04T07:15:00+00:00",
+                "tournament_id": 2045,
+                "home_team_id": 75418,
+                "away_team_id": 75419,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75419,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/midnapore.png"
+                },
+                "home_team": {
+                    "id": 75418,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/jalpaiguri.png"
+                },
+                "tournament": {
+                    "id": 2045,
+                    "name": "Bengal T20 Challenge",
+                    "sport_category_id": 2,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59924,
+                "home_team_code": "HEN-W",
+                "away_team_code": "BEI-W",
+                "status": "active",
+                "game_date": "2021-12-04T08:00:00+00:00",
+                "tournament_id": 2065,
+                "home_team_id": 75391,
+                "away_team_id": 75420,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75420,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/BEI-VB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75391,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DEF-VB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2065,
+                    "name": "China Women Volleyball",
+                    "sport_category_id": 16,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59973,
+                "home_team_code": "MTD",
+                "away_team_code": "AUK",
+                "status": "active",
+                "game_date": "2021-12-04T08:30:00+00:00",
+                "tournament_id": 2032,
+                "home_team_id": 75252,
+                "away_team_id": 75339,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75339,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/KK-CR4%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75252,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MTD-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2032,
+                    "name": "ECS T10-Malta",
+                    "sport_category_id": 1,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59882,
+                "home_team_code": "MLC",
+                "away_team_code": "WST",
+                "status": "active",
+                "game_date": "2021-12-04T08:47:00+00:00",
+                "tournament_id": 1333,
+                "home_team_id": 73341,
+                "away_team_id": 73323,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73323,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/WST-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73341,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MLC-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1333,
+                    "name": "A League",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59886,
+                "home_team_code": "SEMP",
+                "away_team_code": "NZB",
+                "status": "active",
+                "game_date": "2021-12-04T09:05:00+00:00",
+                "tournament_id": 2068,
+                "home_team_id": 73417,
+                "away_team_id": 73424,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73424,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/NZB-NB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73417,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/SEMP-NB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2068,
+                    "name": "NBL 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59977,
+                "home_team_code": "AUM",
+                "away_team_code": "MAR",
+                "status": "active",
+                "game_date": "2021-12-04T10:30:00+00:00",
+                "tournament_id": 2032,
+                "home_team_id": 75342,
+                "away_team_id": 75338,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75338,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MAR-CR3%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75342,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/AUM-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2032,
+                    "name": "ECS T10-Malta",
+                    "sport_category_id": 1,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59909,
+                "home_team_code": "ASC",
+                "away_team_code": "SBC",
+                "status": "active",
+                "game_date": "2021-12-04T11:00:00+00:00",
+                "tournament_id": 2062,
+                "home_team_id": 75362,
+                "away_team_id": 75360,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75360,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/SBC-CR2%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75362,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/ASC-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2062,
+                    "name": "MCA All Star T10 Bash",
+                    "sport_category_id": 2,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59974,
+                "home_team_code": "PAK-J",
+                "away_team_code": "POL-J",
+                "status": "active",
+                "game_date": "2021-12-04T11:00:00+00:00",
+                "tournament_id": 2050,
+                "home_team_id": 75410,
+                "away_team_id": 75335,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75335,
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/POL-HK1@2x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75410,
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/PAK-HK1@2x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2050,
+                    "name": "Men's Junior World Cup",
+                    "sport_category_id": 8,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59979,
+                "home_team_code": "VBI-W",
+                "away_team_code": "AYD-W",
+                "status": "active",
+                "game_date": "2021-12-04T12:00:00+00:00",
+                "tournament_id": 2023,
+                "home_team_id": 75232,
+                "away_team_id": 75427,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75427,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/AYD-VB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75232,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/VBI-VB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2023,
+                    "name": "Turkish Sultanlar Ligi",
+                    "sport_category_id": 16,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59939,
+                "home_team_code": "WHU",
+                "away_team_code": "CHE",
+                "status": "active",
+                "game_date": "2021-12-04T12:32:00+00:00",
+                "tournament_id": 88,
+                "home_team_id": 73118,
+                "away_team_id": 73070,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73070,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/CHE-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73118,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/WHU-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 88,
+                    "name": "England Premier League",
+                    "sport_category_id": 5,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59958,
+                "home_team_code": "SEV",
+                "away_team_code": "VIL",
+                "status": "active",
+                "game_date": "2021-12-04T13:02:00+00:00",
+                "tournament_id": 1284,
+                "home_team_id": 73096,
+                "away_team_id": 73211,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73211,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/VIL-FT2%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73096,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/SEV-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1284,
+                    "name": "LaLiga Santander",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59988,
+                "home_team_code": "BT",
+                "away_team_code": "TAD",
+                "status": "active",
+                "game_date": "2021-12-04T14:00:00+00:00",
+                "tournament_id": 1367,
+                "home_team_id": 75186,
+                "away_team_id": 75185,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75185,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/TAB-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75186,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/BAT-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1367,
+                    "name": "Abu Dhabi T10",
+                    "sport_category_id": 2,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59883,
+                "home_team_code": "NE",
+                "away_team_code": "GOA",
+                "status": "active",
+                "game_date": "2021-12-04T14:02:00+00:00",
+                "tournament_id": 915,
+                "home_team_id": 73091,
+                "away_team_id": 73093,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73093,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/73093"
+                },
+                "home_team": {
+                    "id": 73091,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/73091"
+                },
+                "tournament": {
+                    "id": 915,
+                    "name": "Indian Football League",
+                    "sport_category_id": 5,
+                    "alias": "Indian Football League"
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59713,
+                "home_team_code": "MTH",
+                "away_team_code": "AH",
+                "status": "active",
+                "game_date": "2021-12-04T14:32:00+00:00",
+                "tournament_id": 1506,
+                "home_team_id": 11967,
+                "away_team_id": 61197,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 61197,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/AH-HB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 11967,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MTH-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1506,
+                    "name": "Denmark Handball League",
+                    "sport_category_id": 19,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59970,
+                "home_team_code": "WOL",
+                "away_team_code": "LIV",
+                "status": "active",
+                "game_date": "2021-12-04T15:02:00+00:00",
+                "tournament_id": 88,
+                "home_team_id": 73129,
+                "away_team_id": 73071,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73071,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/LIV-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73129,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/WOL-FT2%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 88,
+                    "name": "England Premier League",
+                    "sport_category_id": 5,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59968,
+                "home_team_code": "BAR",
+                "away_team_code": "RB",
+                "status": "active",
+                "game_date": "2021-12-04T15:17:00+00:00",
+                "tournament_id": 1284,
+                "home_team_id": 73110,
+                "away_team_id": 73132,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73132,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/RB-FT2%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73110,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/BAR-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1284,
+                    "name": "LaLiga Santander",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59989,
+                "home_team_code": "DG",
+                "away_team_code": "DB",
+                "status": "active",
+                "game_date": "2021-12-04T16:00:00+00:00",
+                "tournament_id": 1367,
+                "home_team_id": 75203,
+                "away_team_id": 75184,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75184,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DEB-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75203,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DEG-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1367,
+                    "name": "Abu Dhabi T10",
+                    "sport_category_id": 2,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59890,
+                "home_team_code": "BLR",
+                "away_team_code": "MUM",
+                "status": "active",
+                "game_date": "2021-12-04T16:02:00+00:00",
+                "tournament_id": 915,
+                "home_team_id": 73094,
+                "away_team_id": 73092,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73092,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MUM-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73094,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/73094"
+                },
+                "tournament": {
+                    "id": 915,
+                    "name": "Indian Football League",
+                    "sport_category_id": 5,
+                    "alias": "Indian Football League"
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59842,
+                "home_team_code": "HBE",
+                "away_team_code": "HTV",
+                "status": "active",
+                "game_date": "2021-12-04T16:05:00+00:00",
+                "tournament_id": 2005,
+                "home_team_id": 8065,
+                "away_team_id": 7773,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 7773,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/HTV-NB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 8065,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/HBE-NB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2005,
+                    "name": "Israel Basketball League 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59978,
+                "home_team_code": "DUL-W",
+                "away_team_code": "SRN-W",
+                "status": "active",
+                "game_date": "2021-12-04T17:00:00+00:00",
+                "tournament_id": 1876,
+                "home_team_id": 74839,
+                "away_team_id": 74894,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 74894,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/SRN-VB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 74839,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DUL-VB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1876,
+                    "name": "Czech Republic Extraliga",
+                    "sport_category_id": 16,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59954,
+                "home_team_code": "ROM",
+                "away_team_code": "INT",
+                "status": "active",
+                "game_date": "2021-12-04T17:02:00+00:00",
+                "tournament_id": 445,
+                "home_team_id": 73154,
+                "away_team_id": 73162,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73162,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/INT-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73154,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/ROM-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 445,
+                    "name": "Italy Serie A",
+                    "sport_category_id": 5,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59932,
+                "home_team_code": "BHC",
+                "away_team_code": "SFH",
+                "status": "active",
+                "game_date": "2021-12-04T17:32:00+00:00",
+                "tournament_id": 1767,
+                "home_team_id": 68405,
+                "away_team_id": 44170,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 44170,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/SFH-HB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 68405,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/BHC-HB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1767,
+                    "name": "German League",
+                    "sport_category_id": 19,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59972,
+                "home_team_code": "WAT",
+                "away_team_code": "MCI",
+                "status": "active",
+                "game_date": "2021-12-04T17:32:00+00:00",
+                "tournament_id": 88,
+                "home_team_id": 73374,
+                "away_team_id": 73076,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73076,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MCI-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73374,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/WAT-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 88,
+                    "name": "England Premier League",
+                    "sport_category_id": 5,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59906,
+                "home_team_code": "DOR",
+                "away_team_code": "BAY",
+                "status": "active",
+                "game_date": "2021-12-04T17:32:00+00:00",
+                "tournament_id": 594,
+                "home_team_id": 73108,
+                "away_team_id": 73161,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73161,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/BAY-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73108,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DOR-FT2%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 594,
+                    "name": "Bundesliga",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59991,
+                "home_team_code": "NYK",
+                "away_team_code": "DEN",
+                "status": "active",
+                "game_date": "2021-12-04T18:05:00+00:00",
+                "tournament_id": 1939,
+                "home_team_id": 6872,
+                "away_team_id": 6216,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 6216,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/DEN-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 6872,
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/NYK-NB1@2x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1939,
+                    "name": "NBA 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59986,
+                "home_team_code": "ZUL",
+                "away_team_code": "MGR",
+                "status": "active",
+                "game_date": "2021-12-04T19:11:00+00:00",
+                "tournament_id": 1334,
+                "home_team_id": 73389,
+                "away_team_id": 73347,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73347,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MGR-BB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73389,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/ZUL-BB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1334,
+                    "name": "Liga Venezuelan Baseball",
+                    "sport_category_id": 18,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59971,
+                "home_team_code": "NAP",
+                "away_team_code": "ATN",
+                "status": "active",
+                "game_date": "2021-12-04T19:47:00+00:00",
+                "tournament_id": 445,
+                "home_team_id": 73084,
+                "away_team_id": 73164,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73164,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/ATN-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73084,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/NAP-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 445,
+                    "name": "Italy Serie A",
+                    "sport_category_id": 5,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59940,
+                "home_team_code": "ZRG",
+                "away_team_code": "RM",
+                "status": "active",
+                "game_date": "2021-12-04T19:50:00+00:00",
+                "tournament_id": 1834,
+                "home_team_id": 7437,
+                "away_team_id": 6039,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 6039,
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT1@2x-BIG.png"
+                },
+                "home_team": {
+                    "id": 7437,
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/CZ-NB1@2x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1834,
+                    "name": "Spanish Liga ACB (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59992,
+                "home_team_code": "RS",
+                "away_team_code": "RM",
+                "status": "active",
+                "game_date": "2021-12-04T20:02:00+00:00",
+                "tournament_id": 1284,
+                "home_team_id": 73210,
+                "away_team_id": 73163,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73163,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/RM-FT2%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73210,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/ES-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1284,
+                    "name": "LaLiga Santander",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59913,
+                "home_team_code": "LEN",
+                "away_team_code": "PSG",
+                "status": "active",
+                "game_date": "2021-12-04T20:02:00+00:00",
+                "tournament_id": 337,
+                "home_team_id": 26570,
+                "away_team_id": 73066,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73066,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/PSG-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 26570,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/LEN-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 337,
+                    "name": "Ligue 1",
+                    "sport_category_id": 5,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59943,
+                "home_team_code": "WB-W",
+                "away_team_code": "CH-W",
+                "status": "active",
+                "game_date": "2021-12-04T22:10:00+00:00",
+                "tournament_id": 973,
+                "home_team_id": 75299,
+                "away_team_id": 75301,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75301,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/CH-W-CR3%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75299,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/WB-W-CR2%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 973,
+                    "name": "Women's Super Smash",
+                    "sport_category_id": 2,
+                    "alias": ""
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59942,
+                "home_team_code": "PT",
+                "away_team_code": "RSLC",
+                "status": "active",
+                "game_date": "2021-12-04T23:32:00+00:00",
+                "tournament_id": 95,
+                "home_team_id": 73125,
+                "away_team_id": 73949,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73949,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/RSLC-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73125,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/PT-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 95,
+                    "name": "Major League Soccer",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59588,
+                "home_team_code": "WF",
+                "away_team_code": "CS",
+                "status": "active",
+                "game_date": "2021-12-05T01:40:00+00:00",
+                "tournament_id": 2053,
+                "home_team_id": 75304,
+                "away_team_id": 75308,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75308,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/CD-CR2%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75304,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/WEL-CR2%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2053,
+                    "name": "Super Smash",
+                    "sport_category_id": 2,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59898,
+                "home_team_code": "LEO",
+                "away_team_code": "TIG",
+                "status": "active",
+                "game_date": "2021-12-05T03:02:00+00:00",
+                "tournament_id": 1184,
+                "home_team_id": 73408,
+                "away_team_id": 16896,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 16896,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/TIG-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73408,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/LEO-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1184,
+                    "name": "Mexican League",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59948,
+                "home_team_code": "MW",
+                "away_team_code": "GBM",
+                "status": "active",
+                "game_date": "2021-12-05T03:15:00+00:00",
+                "tournament_id": 2045,
+                "home_team_id": 75387,
+                "away_team_id": 75383,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75383,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/GBM-CR1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75387,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/manbhum.png"
+                },
+                "tournament": {
+                    "id": 2045,
+                    "name": "Bengal T20 Challenge",
+                    "sport_category_id": 2,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59960,
+                "home_team_code": "PW",
+                "away_team_code": "CTP",
+                "status": "active",
+                "game_date": "2021-12-05T06:35:00+00:00",
+                "tournament_id": 2068,
+                "home_team_id": 73426,
+                "away_team_id": 73404,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_UNAVAILABLE",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73404,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/CTP-NB1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73426,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/PW-NB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2068,
+                    "name": "NBL 2021-22 (Basketball)",
+                    "sport_category_id": 7,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59956,
+                "home_team_code": "NSD",
+                "away_team_code": "HR",
+                "status": "active",
+                "game_date": "2021-12-05T07:15:00+00:00",
+                "tournament_id": 2045,
+                "home_team_id": 75396,
+                "away_team_id": 75382,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75382,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/hoogly-river.png"
+                },
+                "home_team": {
+                    "id": 75396,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/NSD-CR1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2045,
+                    "name": "Bengal T20 Challenge",
+                    "sport_category_id": 2,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59884,
+                "home_team_code": "MLV",
+                "away_team_code": "PG",
+                "status": "active",
+                "game_date": "2021-12-05T07:47:00+00:00",
+                "tournament_id": 1333,
+                "home_team_id": 73151,
+                "away_team_id": 73152,
+                "mode": "regular",
+                "lineupStatus": "LINEUP_EXPECTED",
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 73152,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/PG-FT1%402x-BIG.png"
+                },
+                "home_team": {
+                    "id": 73151,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/MLV-FT1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 1333,
+                    "name": "A League",
+                    "sport_category_id": 5,
+                    "alias": null
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59962,
+                "home_team_code": "SS",
+                "away_team_code": "MS",
+                "status": "active",
+                "game_date": "2021-12-05T08:35:00+00:00",
+                "tournament_id": 975,
+                "home_team_id": 75421,
+                "away_team_id": 75422,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 75422,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/Melbourne-Stars.png"
+                },
+                "home_team": {
+                    "id": 75421,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/Sydney-Sixers.png"
+                },
+                "tournament": {
+                    "id": 975,
+                    "name": "Australian T20 (2nd Innings)",
+                    "sport_category_id": 2,
+                    "alias": "Australian T20 (2nd Innings)"
+                },
+                "lineup_out": 0
+            },
+            {
+                "id": 59987,
+                "home_team_code": "ARK",
+                "away_team_code": "FEN",
+                "status": "active",
+                "game_date": "2021-12-05T10:00:00+00:00",
+                "tournament_id": 2035,
+                "home_team_id": 75428,
+                "away_team_id": 6815,
+                "mode": "regular",
+                "lineupStatus": null,
+                "lfr_id": null,
+                "leagues": [],
+                "away_team": {
+                    "id": 6815,
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FEN-NB1@2x-BIG.png"
+                },
+                "home_team": {
+                    "id": 75428,
+                    "logo": "https://img.myfab11.com/myfab11-team-icons/ARK-VB1%402x-BIG.png"
+                },
+                "tournament": {
+                    "id": 2035,
+                    "name": "Turkish Efeler Ligi",
+                    "sport_category_id": 16,
+                    "alias": null
+                },
+                "lineup_out": 0
+            }
+        ],
+        "banners": [],
+        "alert": null,
+        "sport_categories": {
+            "cricket": "Cricket",
+            "live": "Live",
+            "football": "Football",
+            "nba": "Basketball",
+            "baseball": "Baseball",
+            "handball": "Handball",
+            "hockey": "Hockey"
+        },
+        "sport_items": 7
+    }
+}

@@ -4,7 +4,6 @@ const axios = require('axios')
 
 let base_url_one = 'https://api.cricpick.in/games/view/'   // 59807
 let base_url_two = '/1.1.json'
-
 let all_matches_api = 'https://api.cricpick.in/games/listing/active/safe.json'
 const expressLayouts = require('express-ejs-layouts')
 
@@ -22,7 +21,7 @@ app.get('/',async(req,res)=>{
     let data = response.data 
     let req_data = []
     data.result.games.forEach((match)=>{
-        if(match.tournament.sport_category_id==2 || match.tournament.sport_category_id == 1 || match.tournament.sport_category_id == 3)
+        if(match.tournament.sport_category_id==2 || match.tournament.sport_category_id == 1 || match.tournament.sport_category_id == 3 || match.tournament.sport_category_id == 4)
         {
             req_data.push({
                 id:match.id,
